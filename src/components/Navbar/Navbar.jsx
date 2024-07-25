@@ -15,10 +15,17 @@ const Navbar = () => {
                         <li><a href="#">Contacto</a></li>
                         
                     </div>
-
                 </div>
-
             </nav>
+
+            <div className="sections">
+                <section>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, necessitatibus!</p>
+                </section>
+                <section>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, necessitatibus!</p>
+                </section>
+            </div>
         </>
     )
 }
